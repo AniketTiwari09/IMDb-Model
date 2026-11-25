@@ -1,0 +1,24 @@
+# Local environments and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Datasets and generated artifacts
+/[Dd]ata/*
+!/[Dd]ata/README.md
+Data_Multilabel/
+Results/
+results/
+runs/
+checkpoints/
+*.h5
+*.safetensors
+*.pt
+*.pth
