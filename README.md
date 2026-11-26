@@ -4,8 +4,6 @@ Movie genre classification from titles and plot descriptions using pretrained Di
 
 **Repository maintainer:** Aniket Tiwari
 
-Originally developed as a collaborative ITCS 6156 course project. This repository presents the genre-classification code; the unrelated virtual try-on project and original course presentation are outside its scope.
-
 ## Notebooks
 
 | File | Purpose | Status |
